@@ -1,7 +1,7 @@
 # pages
 
 ## LP
-https://sereal-axela.github.io/19/lp
+https://sereal-axela.github.io/19-lp/lp
 
 ## docs
-https://sereal-axela.github.io/19/docs
+https://sereal-axela.github.io/19-lp/docs
