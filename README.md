@@ -1,7 +1,7 @@
 # pages
 
 ## LP
-https://sereal-axela.github.io/kawano/lp
+https://sereal-axela.github.io/19/lp
 
 ## docs
-https://sereal-axela.github.io/kawano/docs
+https://sereal-axela.github.io/19/docs
